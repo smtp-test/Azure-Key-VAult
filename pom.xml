@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.avioconsulting.mule.connector</groupId>
-    <artifactId>mule-azure-key-vault-connector</artifactId>
+    <groupId>com.smtp-test.mule.connector</groupId>
+    <artifactId>Azure-key-VAult</artifactId>
     <version>1.2.1</version>
     <packaging>mule-extension</packaging>
     <name>MuleSoft Azure Key Vault Connector</name>
